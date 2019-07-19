@@ -36,6 +36,7 @@ Pre-requisites:
   5. Install OCI Python SDK in a VirutalEnv in your instance
 
   ![user input icon](https://raw.githubusercontent.com/arodri202/oci-python-object-storage/master/images/userinput.png?token=AK4AYAVV2EYKYR4LI72BV6S5CUJZE)
+
   python3
   ```
   pip3 install virutalenv
@@ -67,7 +68,7 @@ Pre-requisites:
   ```
 
 Invoke the Function!
-----
+--------------------
 
   ![user input icon](https://raw.githubusercontent.com/arodri202/oci-python-object-storage/master/images/userinput.png?token=AK4AYAVV2EYKYR4LI72BV6S5CUJZE)
   ```
