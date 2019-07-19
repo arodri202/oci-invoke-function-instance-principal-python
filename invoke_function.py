@@ -6,9 +6,6 @@ import oci.functions
 from oci import identity
 from oci import pagination
 
-
-
-
 def get_compartment(signer, tenancy, compartment_name):
     """
     Identifies compartment ID by its name within the particular tenancy
